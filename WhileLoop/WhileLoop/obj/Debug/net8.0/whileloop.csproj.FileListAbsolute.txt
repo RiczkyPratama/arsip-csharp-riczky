@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\bin\Debug\net8.0\whileloop.exe
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\bin\Debug\net8.0\whileloop.deps.json
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\bin\Debug\net8.0\whileloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\bin\Debug\net8.0\whileloop.dll
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\bin\Debug\net8.0\whileloop.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.dll
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\refint\whileloop.dll
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\whileloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\whileloop\whileloop\obj\Debug\net8.0\ref\whileloop.dll

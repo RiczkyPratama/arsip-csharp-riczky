@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\bin\Debug\net8.0\nestedif.exe
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\bin\Debug\net8.0\nestedif.deps.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\bin\Debug\net8.0\nestedif.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\bin\Debug\net8.0\nestedif.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\bin\Debug\net8.0\nestedif.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\refint\nestedif.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\nestedif.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\nestedif\obj\Debug\net8.0\ref\nestedif.dll

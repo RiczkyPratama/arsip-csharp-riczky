@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\bin\Debug\net8.0\infinitefor.exe
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\bin\Debug\net8.0\infinitefor.deps.json
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\bin\Debug\net8.0\infinitefor.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\bin\Debug\net8.0\infinitefor.dll
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\bin\Debug\net8.0\infinitefor.pdb
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.dll
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\refint\infinitefor.dll
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.pdb
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\infinitefor.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\forloop\infinitefor\obj\Debug\net8.0\ref\infinitefor.dll

@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\bin\Debug\net8.0\breakforloop.exe
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\bin\Debug\net8.0\breakforloop.deps.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\bin\Debug\net8.0\breakforloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\bin\Debug\net8.0\breakforloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\bin\Debug\net8.0\breakforloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\refint\breakforloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\breakforloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforloop\obj\Debug\net8.0\ref\breakforloop.dll

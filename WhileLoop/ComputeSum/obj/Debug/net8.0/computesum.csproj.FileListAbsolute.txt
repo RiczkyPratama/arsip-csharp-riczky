@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\bin\Debug\net8.0\computesum.exe
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\bin\Debug\net8.0\computesum.deps.json
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\bin\Debug\net8.0\computesum.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\bin\Debug\net8.0\computesum.dll
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\bin\Debug\net8.0\computesum.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.dll
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\refint\computesum.dll
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\computesum.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\whileloop\computesum\obj\Debug\net8.0\ref\computesum.dll

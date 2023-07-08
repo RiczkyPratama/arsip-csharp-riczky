@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\bin\Debug\net8.0\nesteddowhile.exe
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\bin\Debug\net8.0\nesteddowhile.deps.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\bin\Debug\net8.0\nesteddowhile.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\bin\Debug\net8.0\nesteddowhile.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\bin\Debug\net8.0\nesteddowhile.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\refint\nesteddowhile.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\nesteddowhile.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddowhile\obj\Debug\net8.0\ref\nesteddowhile.dll

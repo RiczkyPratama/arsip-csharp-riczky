@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\bin\Debug\net8.0\withoutinisialisasi.exe
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\bin\Debug\net8.0\withoutinisialisasi.deps.json
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\bin\Debug\net8.0\withoutinisialisasi.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\bin\Debug\net8.0\withoutinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\bin\Debug\net8.0\withoutinisialisasi.pdb
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\refint\withoutinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.pdb
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\withoutinisialisasi.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\forloop\withoutinisialisasi\obj\Debug\net8.0\ref\withoutinisialisasi.dll

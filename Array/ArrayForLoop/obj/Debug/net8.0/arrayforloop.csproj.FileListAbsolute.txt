@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\bin\Debug\net8.0\arrayforloop.exe
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\bin\Debug\net8.0\arrayforloop.deps.json
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\bin\Debug\net8.0\arrayforloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\bin\Debug\net8.0\arrayforloop.dll
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\bin\Debug\net8.0\arrayforloop.pdb
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.dll
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\refint\arrayforloop.dll
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.pdb
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\arrayforloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\array\arrayforloop\obj\Debug\net8.0\ref\arrayforloop.dll

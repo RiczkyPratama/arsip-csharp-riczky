@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\bin\Debug\net8.0\simplecalculator.exe
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\bin\Debug\net8.0\simplecalculator.deps.json
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\bin\Debug\net8.0\simplecalculator.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\bin\Debug\net8.0\simplecalculator.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\bin\Debug\net8.0\simplecalculator.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\refint\simplecalculator.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\simplecalculator.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\simplecalculator\obj\Debug\net8.0\ref\simplecalculator.dll

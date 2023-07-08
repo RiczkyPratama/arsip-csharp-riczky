@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\array\findaverage\bin\Debug\net8.0\findaverage.exe
+C:\Users\furat\Desktop\CSharp\array\findaverage\bin\Debug\net8.0\findaverage.deps.json
+C:\Users\furat\Desktop\CSharp\array\findaverage\bin\Debug\net8.0\findaverage.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\array\findaverage\bin\Debug\net8.0\findaverage.dll
+C:\Users\furat\Desktop\CSharp\array\findaverage\bin\Debug\net8.0\findaverage.pdb
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.dll
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\refint\findaverage.dll
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.pdb
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\findaverage.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\array\findaverage\obj\Debug\net8.0\ref\findaverage.dll

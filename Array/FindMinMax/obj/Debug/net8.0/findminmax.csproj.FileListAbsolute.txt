@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\array\findminmax\bin\Debug\net8.0\findminmax.exe
+C:\Users\furat\Desktop\CSharp\array\findminmax\bin\Debug\net8.0\findminmax.deps.json
+C:\Users\furat\Desktop\CSharp\array\findminmax\bin\Debug\net8.0\findminmax.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\array\findminmax\bin\Debug\net8.0\findminmax.dll
+C:\Users\furat\Desktop\CSharp\array\findminmax\bin\Debug\net8.0\findminmax.pdb
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.dll
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\refint\findminmax.dll
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.pdb
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\findminmax.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\array\findminmax\obj\Debug\net8.0\ref\findminmax.dll

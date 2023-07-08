@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\bin\Debug\net8.0\multipleinisialisasi.exe
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\bin\Debug\net8.0\multipleinisialisasi.deps.json
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\bin\Debug\net8.0\multipleinisialisasi.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\bin\Debug\net8.0\multipleinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\bin\Debug\net8.0\multipleinisialisasi.pdb
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\refint\multipleinisialisasi.dll
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.pdb
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\multipleinisialisasi.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\forloop\multipleinisialisasi\obj\Debug\net8.0\ref\multipleinisialisasi.dll

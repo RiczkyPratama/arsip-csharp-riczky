@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\bin\Debug\net8.0\breakswitch.exe
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\bin\Debug\net8.0\breakswitch.deps.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\bin\Debug\net8.0\breakswitch.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\bin\Debug\net8.0\breakswitch.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\bin\Debug\net8.0\breakswitch.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\refint\breakswitch.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\breakswitch.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakswitch\obj\Debug\net8.0\ref\breakswitch.dll

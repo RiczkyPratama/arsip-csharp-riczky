@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\bin\Debug\net8.0\switchgroupedcase.exe
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\bin\Debug\net8.0\switchgroupedcase.deps.json
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\bin\Debug\net8.0\switchgroupedcase.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\bin\Debug\net8.0\switchgroupedcase.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\bin\Debug\net8.0\switchgroupedcase.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\refint\switchgroupedcase.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\switchgroupedcase.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\switchgroupedcase\obj\Debug\net8.0\ref\switchgroupedcase.dll

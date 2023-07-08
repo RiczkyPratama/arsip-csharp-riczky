@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\bin\Debug\net8.0\continuenestedloop.exe
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\bin\Debug\net8.0\continuenestedloop.deps.json
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\bin\Debug\net8.0\continuenestedloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\bin\Debug\net8.0\continuenestedloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\bin\Debug\net8.0\continuenestedloop.pdb
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\refint\continuenestedloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.pdb
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\continuenestedloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continuenestedloop\obj\Debug\net8.0\ref\continuenestedloop.dll

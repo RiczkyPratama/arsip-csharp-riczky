@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\bin\Debug\net8.0\nesteddifinout.exe
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\bin\Debug\net8.0\nesteddifinout.deps.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\bin\Debug\net8.0\nesteddifinout.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\bin\Debug\net8.0\nesteddifinout.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\bin\Debug\net8.0\nesteddifinout.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\refint\nesteddifinout.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\nesteddifinout.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nesteddifinout\obj\Debug\net8.0\ref\nesteddifinout.dll

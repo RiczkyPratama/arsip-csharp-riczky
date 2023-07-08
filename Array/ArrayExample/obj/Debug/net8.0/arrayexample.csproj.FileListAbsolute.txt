@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\array\arrayexample\bin\Debug\net8.0\arrayexample.exe
+C:\Users\furat\Desktop\CSharp\array\arrayexample\bin\Debug\net8.0\arrayexample.deps.json
+C:\Users\furat\Desktop\CSharp\array\arrayexample\bin\Debug\net8.0\arrayexample.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\array\arrayexample\bin\Debug\net8.0\arrayexample.dll
+C:\Users\furat\Desktop\CSharp\array\arrayexample\bin\Debug\net8.0\arrayexample.pdb
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.dll
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\refint\arrayexample.dll
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.pdb
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\arrayexample.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\array\arrayexample\obj\Debug\net8.0\ref\arrayexample.dll

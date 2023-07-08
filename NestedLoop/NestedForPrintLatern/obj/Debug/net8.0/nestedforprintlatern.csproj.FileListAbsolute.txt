@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\bin\Debug\net8.0\nestedforprintlatern.exe
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\bin\Debug\net8.0\nestedforprintlatern.deps.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\bin\Debug\net8.0\nestedforprintlatern.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\bin\Debug\net8.0\nestedforprintlatern.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\bin\Debug\net8.0\nestedforprintlatern.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\refint\nestedforprintlatern.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\nestedforprintlatern.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedforprintlatern\obj\Debug\net8.0\ref\nestedforprintlatern.dll

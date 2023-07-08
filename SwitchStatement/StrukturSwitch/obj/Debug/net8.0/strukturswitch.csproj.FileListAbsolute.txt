@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\bin\Debug\net8.0\strukturswitch.exe
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\bin\Debug\net8.0\strukturswitch.deps.json
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\bin\Debug\net8.0\strukturswitch.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\bin\Debug\net8.0\strukturswitch.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\bin\Debug\net8.0\strukturswitch.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\refint\strukturswitch.dll
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.pdb
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\strukturswitch.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\switchstatement\strukturswitch\obj\Debug\net8.0\ref\strukturswitch.dll

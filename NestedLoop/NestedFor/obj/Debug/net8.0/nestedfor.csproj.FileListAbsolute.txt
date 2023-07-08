@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\bin\Debug\net8.0\nestedfor.exe
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\bin\Debug\net8.0\nestedfor.deps.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\bin\Debug\net8.0\nestedfor.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\bin\Debug\net8.0\nestedfor.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\bin\Debug\net8.0\nestedfor.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\refint\nestedfor.dll
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.pdb
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\nestedfor.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\nestedloop\nestedfor\obj\Debug\net8.0\ref\nestedfor.dll

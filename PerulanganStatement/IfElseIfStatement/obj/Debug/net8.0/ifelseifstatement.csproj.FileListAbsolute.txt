@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\bin\Debug\net8.0\ifelseifstatement.exe
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\bin\Debug\net8.0\ifelseifstatement.deps.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\bin\Debug\net8.0\ifelseifstatement.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\bin\Debug\net8.0\ifelseifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\bin\Debug\net8.0\ifelseifstatement.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\refint\ifelseifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ifelseifstatement.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifelseifstatement\obj\Debug\net8.0\ref\ifelseifstatement.dll

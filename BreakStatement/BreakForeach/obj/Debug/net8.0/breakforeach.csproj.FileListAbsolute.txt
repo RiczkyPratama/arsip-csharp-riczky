@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\bin\Debug\net8.0\breakforeach.exe
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\bin\Debug\net8.0\breakforeach.deps.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\bin\Debug\net8.0\breakforeach.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\bin\Debug\net8.0\breakforeach.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\bin\Debug\net8.0\breakforeach.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\refint\breakforeach.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\breakforeach.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakforeach\obj\Debug\net8.0\ref\breakforeach.dll

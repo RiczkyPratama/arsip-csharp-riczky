@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\bin\Debug\net8.0\Ifstatement.exe
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\bin\Debug\net8.0\Ifstatement.deps.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\bin\Debug\net8.0\Ifstatement.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\bin\Debug\net8.0\Ifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\bin\Debug\net8.0\Ifstatement.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\refint\Ifstatement.dll
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.pdb
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\Ifstatement.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\perulanganstatement\ifstatement\obj\Debug\net8.0\ref\Ifstatement.dll

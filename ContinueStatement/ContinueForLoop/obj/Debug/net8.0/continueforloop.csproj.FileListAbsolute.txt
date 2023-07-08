@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\bin\Debug\net8.0\continueforloop.exe
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\bin\Debug\net8.0\continueforloop.deps.json
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\bin\Debug\net8.0\continueforloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\bin\Debug\net8.0\continueforloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\bin\Debug\net8.0\continueforloop.pdb
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\refint\continueforloop.dll
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.pdb
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\continueforloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\continuestatement\continueforloop\obj\Debug\net8.0\ref\continueforloop.dll

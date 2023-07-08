@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\array\changearray\bin\Debug\net8.0\changearray.exe
+C:\Users\furat\Desktop\CSharp\array\changearray\bin\Debug\net8.0\changearray.deps.json
+C:\Users\furat\Desktop\CSharp\array\changearray\bin\Debug\net8.0\changearray.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\array\changearray\bin\Debug\net8.0\changearray.dll
+C:\Users\furat\Desktop\CSharp\array\changearray\bin\Debug\net8.0\changearray.pdb
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.dll
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\refint\changearray.dll
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.pdb
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\changearray.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\array\changearray\obj\Debug\net8.0\ref\changearray.dll

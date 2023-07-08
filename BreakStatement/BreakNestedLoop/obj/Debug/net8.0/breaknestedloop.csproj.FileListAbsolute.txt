@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\bin\Debug\net8.0\breaknestedloop.exe
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\bin\Debug\net8.0\breaknestedloop.deps.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\bin\Debug\net8.0\breaknestedloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\bin\Debug\net8.0\breaknestedloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\bin\Debug\net8.0\breaknestedloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\refint\breaknestedloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\breaknestedloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breaknestedloop\obj\Debug\net8.0\ref\breaknestedloop.dll

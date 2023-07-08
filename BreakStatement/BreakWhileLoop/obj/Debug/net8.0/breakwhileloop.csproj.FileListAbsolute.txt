@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\bin\Debug\net8.0\breakwhileloop.exe
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\bin\Debug\net8.0\breakwhileloop.deps.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\bin\Debug\net8.0\breakwhileloop.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\bin\Debug\net8.0\breakwhileloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\bin\Debug\net8.0\breakwhileloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\refint\breakwhileloop.dll
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.pdb
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\breakwhileloop.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\breakstatement\breakwhileloop\obj\Debug\net8.0\ref\breakwhileloop.dll

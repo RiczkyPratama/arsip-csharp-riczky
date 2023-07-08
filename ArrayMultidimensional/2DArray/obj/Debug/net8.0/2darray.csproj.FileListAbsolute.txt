@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\bin\Debug\net8.0\2darray.exe
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\bin\Debug\net8.0\2darray.deps.json
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\bin\Debug\net8.0\2darray.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\bin\Debug\net8.0\2darray.dll
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\bin\Debug\net8.0\2darray.pdb
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.dll
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\refint\2darray.dll
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.pdb
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\2darray.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\arraymultidimensional\2darray\obj\Debug\net8.0\ref\2darray.dll

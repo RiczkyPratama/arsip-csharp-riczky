@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "continuenestedloop/1.0.0": {
+        "runtime": {
+          "continuenestedloop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "continuenestedloop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

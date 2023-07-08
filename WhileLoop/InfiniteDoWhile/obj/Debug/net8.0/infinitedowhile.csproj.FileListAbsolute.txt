@@ -1,0 +1,15 @@
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\bin\Debug\net8.0\infinitedowhile.exe
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\bin\Debug\net8.0\infinitedowhile.deps.json
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\bin\Debug\net8.0\infinitedowhile.runtimeconfig.json
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\bin\Debug\net8.0\infinitedowhile.dll
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\bin\Debug\net8.0\infinitedowhile.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.csproj.AssemblyReference.cache
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.AssemblyInfoInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.AssemblyInfo.cs
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.csproj.CoreCompileInputs.cache
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.dll
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\refint\infinitedowhile.dll
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.pdb
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\infinitedowhile.genruntimeconfig.cache
+C:\Users\furat\Desktop\CSharp\whileloop\infinitedowhile\obj\Debug\net8.0\ref\infinitedowhile.dll
